@@ -9,7 +9,11 @@ Site Intro
 
 ## Purpose
 
+Purpose text
+
 ## Deployment
+
+Deployment text
 
 ## How to Contribute
 
