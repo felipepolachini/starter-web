@@ -17,4 +17,8 @@ Deployment text!
 
 ## How to Contribute
 
+## Copyright
+
+Git Training 2014
+
 
